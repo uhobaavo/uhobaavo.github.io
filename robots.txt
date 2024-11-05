@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uhobaavo.github.io/CiM/sitemap_index.txt
+Sitemap: https://uhobaavo.github.io/XYi/sitemap_index.txt
+Sitemap: https://uhobaavo.github.io/Yvi/sitemap_index.txt
+Sitemap: https://uhobaavo.github.io/kpa/sitemap_index.txt
